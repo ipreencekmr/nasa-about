@@ -1,0 +1,62 @@
+[
+  {
+    "title": "One-App",
+    "desc": "We built our application using the one-app framework, a React JS framework provided by American Express. This framework offers a solid foundation for building scalable and modular applications."
+  },
+  {
+    "title": "Material-UI",
+    "desc": "To ensure a visually appealing and consistent design, we integrated Material-UI, a CSS library that provides a rich set of pre-designed components and styles."
+  },
+  {
+    "title": "Docker",
+    "desc": "We containerized our application using Docker, allowing for easy deployment and scalability while ensuring consistent environments across different systems."
+  },
+  {
+    "title": "RTL (React Testing Library)",
+    "desc": "For robust and reliable testing, we implemented RTL, a testing library specifically designed for React applications. This allowed us to perform comprehensive unit and integration tests to ensure the stability of our codebase."
+  },
+  {
+    "title": "i18n (Internationalization library)",
+    "desc": "With i18n, we made our application accessible to a global audience by enabling internationalization and localization, providing support for multiple languages and locales."
+  },
+  {
+    "title": "NASA Open APIs",
+    "desc": "Our application leverages NASA's Open APIs, granting users access to captivating imagery, near-Earth asteroid information, and Mars rover photos. These APIs enrich the user experience and facilitate exploration of the cosmos."
+  },
+  {
+    "title": "ESLint",
+    "desc": "To enforce code quality and maintainability, we utilized ESLint, a powerful tool for static code analysis. It helps identify and rectify potential issues, ensuring adherence to coding best practices and minimizing code complexity."
+  },
+  {
+    "title": "CommitLint",
+    "desc": "We employed CommitLint to enforce a standardized commit format and ensure test statuses, promoting efficient collaboration and code management within our development team."
+  },
+  {
+    "title": "Helmet",
+    "desc": "Helmet provided us with Content Security Policy functionality, helping to enhance the security of our application by mitigating potential risks associated with external content and preventing cross-site scripting (XSS) attacks."
+  },
+  {
+    "title": "Redux",
+    "desc": "To manage the application's state effectively, we integrated Redux, a robust and widely adopted state management library for React applications. This allowed for seamless data flow and centralized state management."
+  },
+  {
+    "title": "Vercel",
+    "desc": "We chose Vercel as our deployment platform, which enabled us to easily deploy and host our modules, ensuring high availability and performance for our users."
+  },
+  {
+    "title": "GitHub",
+    "desc": "GitHub served as our repository, enabling efficient code collaboration, version control, and seamless integration with other development tools."
+  },
+  {
+    "title": "Git",
+    "desc": "Git, a widely used version control system, helped us track changes, manage branches, and collaborate effectively as a team."
+  },
+  {
+    "title": "AWS (Amazon Web Services)",
+    "desc": "For the final deployment of our application, we utilized AWS, leveraging its powerful infrastructure and services to ensure scalability, reliability, and security."
+  },
+  {
+    "title": "GitHub Actions",
+    "desc": "We automated the deployment process using GitHub Actions, streamlining the release and deployment workflows, and ensuring consistent and efficient delivery of updates to our application."
+  }
+]

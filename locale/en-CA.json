@@ -1,3 +1,20 @@
 {
-  "greeting": "Welcome to nasa-about from Canada!"
+  "greeting": "Welcome to nasa-about from the United States!",
+  "welcome.title":"Welcome to NASA Micro FrontEnd Application",
+  "welcome.desc":"At NASA MFA, we are passionate about bringing the wonders of space and the universe closer to you. Our application harnesses the power of NASA's open APIs, allowing users to explore breathtaking imagery, learn about near-Earth asteroids, and dive into the captivating world of Mars exploration",
+  "apod.title":"Discover the Cosmos with APOD",
+  "apod.desc":"One of the most popular features of our application is the Astronomy Picture of the Day (APOD). Every day, we showcase a mesmerizing image of our universe, accompanied by a fascinating description that delves into the science and stories behind it. Whether it's breathtaking nebulae, distant galaxies, or stunning views of our own planet, APOD will leave you in awe and ignite your curiosity.",
+  "neo.title":"Unveil the Secrets of Near-Earth Asteroids",
+  "neo.desc":"With our NeoWs (Near Earth Object Web Service), you can explore the fascinating world of asteroids that come close to our planet. Search for asteroids based on their closest approach date to Earth or look up specific asteroids using their NASA JPL small body ID. Stay informed about the latest updates and research on near-Earth objects, expanding your knowledge of these celestial visitors.",
+  "mro.title":"Embark on a Journey to Mars",
+  "mro.desc":"Our application also provides a gateway to the captivating Martian landscapes captured by NASA's Curiosity, Opportunity, and Spirit rovers. Browse through an extensive collection of images taken by these robotic explorers and immerse yourself in the Red Planet's breathtaking vistas. Journey through the Martian sols (days) and witness the discoveries made by these remarkable machines.",
+  "mission.title":"Our Mission",
+  "mission.desc":"At NASA MFA, our mission is to make the wonders of space accessible to everyone. We strive to create an engaging and educational experience that sparks curiosity, ignites imagination, and fosters a deeper understanding of the universe we inhabit. By leveraging NASA's open APIs and cutting-edge technologies like React JS and One-App framework, we aim to bring the cosmos closer to your fingertips.",
+  "joinus.title":"Join Us on the Cosmic Expedition",
+  "joinus.desc":"We invite you to join us on this cosmic expedition as we explore the mysteries of the universe together. Whether you are an astronomy enthusiast, a space science lover, or simply curious about the wonders beyond our planet, NASA MFA offers a platform to indulge your curiosity, expand your knowledge, and experience the beauty of space exploration.",
+  "joinus.closure":"Start your journey today and let the vastness of the cosmos unfold before your eyes.",
+  "donki.title":"DONKI - Your Space Weather Companion",
+  "donki.desc":"The Space Weather Database Of Notifications, Knowledge, Information. As avid space enthusiasts and scientists, we understand the importance of staying informed about the dynamic nature of our universe. That's why we developed DONKI, a powerful online tool designed to cater to space weather forecasters, scientists, and the broader space science community.",
+  "techstack":"Technology Stack",
+  "techstack.desc":"Our application, powered by a cutting-edge tech stack, offers a seamless and powerful user experience. Here are the technologies and tools we utilized to develop this application:"
 }
